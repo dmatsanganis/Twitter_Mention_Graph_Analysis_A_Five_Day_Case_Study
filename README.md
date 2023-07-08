@@ -9,7 +9,7 @@ The [dataset](https://drive.google.com/file/d/1RjWUg-6KrVOjJPZHHQg-h_9gSSWZUPn-/
 The analysis conducted in this case study follows a systematic approach. For a more detailed approach see the provided documentation:
 
 * Data Manipulation: The raw data is processed using Python to create the five CSV files representing the mention graph for each day through Python.
-
+ 
 * Graph Creation: R is used to create igraph graphs based on the CSV files. The graph vertices are updated to include the topic attribute for each user, enabling further analysis and visualization.
 
 * Metric Evolution: The evolution of different metrics over the five-day period is examined. Plots are created to visualize changes in the number of vertices, number of edges, graph diameter, average in-degree, and average out-degree. Significant fluctuations in these metrics are identified and discussed.
