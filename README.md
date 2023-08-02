@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of a Twitter mention dataset f
 
 ### Dataset
 The [dataset](https://drive.google.com/file/d/1RjWUg-6KrVOjJPZHHQg-h_9gSSWZUPn-/view) used in this case study consists of tweets from July 2009. Each tweet includes information about the time of posting, user handles, and the text of the tweets. The data has been manipulated and organized into five CSV files, each representing the weighted directed mention graph for a specific day. These CSV files contain information about the users involved in the mentions, the frequency of mentions between users, and the most important topic (hashtag) for each user.
-
+ 
 ### Analysis Steps
 The analysis conducted in this case study follows a systematic approach. For a more detailed approach see the provided documentation:
 
