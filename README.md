@@ -1,4 +1,4 @@
-## Twitter Mention Graph Analysis: A Five-Day Case_Study
+## Twitter Mention Graph Analysis: A Five-Day Case Study
 
 This repository contains a comprehensive analysis of a Twitter mention dataset from July 2009. The goal of this case study is to analyze the mention relationships between users, identify the most important topics for each user based on hashtags, and perform various analyses on the graph representation of the data.
 
