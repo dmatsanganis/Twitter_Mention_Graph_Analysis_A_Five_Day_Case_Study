@@ -20,5 +20,9 @@ The analysis conducted in this case study follows a systematic approach. For a m
 
 * Community Evolution: A specific user present in all five graphs is chosen, and their community evolution is analyzed. Similarities in the communities the user belongs to are identified, along with the most important topics of interest. Shared topics among communities are explored, and a visualization of the graph is created, using different colors to represent each community. Nodes belonging to very small or large communities are filtered out to improve clarity and aesthetics.
 
+### Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
